@@ -12,3 +12,6 @@ This project demonstrates Git commands execution with a valid terminal screensho
 
 ### Git Add Output
 ![Git Add](./img2.png)
+
+### Git Hub User dashboard
+![My Github Dashboard](./img3.png)
